@@ -1,8 +1,30 @@
 .Hawaii-Pic {
-        width: 400px;
+        width: 600px;
+        border-radius: 30px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border: 10px solid;
+        border-color: crimson;
+
 }
 body {
         background-color: gold;
         color: blue;
 
+}
+.My-Portfolio {
+        text-align: center;
+        border-style: solid;
+        border-width: 15px;
+        border-radius: 15px;
+        font-family: cursive;
+}
+.My-favorite {
+        font-size: 1.2em;
+
+
+}
+div {
+        cursor: wait;
 }
